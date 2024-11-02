@@ -4,7 +4,7 @@ This class works with HW buttons for the Arduino family. It works with one press
 ## Usage - example
 ```cpp
 #include <Arduino.h>
-#include "CPressButton.h"
+#include "CPressButton.cpp"
 
 CPressButton hwButton(2);
 int pressButton = 0;
