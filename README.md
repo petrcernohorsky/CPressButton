@@ -28,5 +28,7 @@ void loop(){
     // The variable is incremented every 25 milliseconds
     longPressButton++; 
   }
+
+  delay(10);
 }
 
